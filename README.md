@@ -65,7 +65,7 @@ Run the app
 bash
 Copy
 Edit
-streamlit run app.py
+streamlit run app.py ```
 📷 Sample Predictions
 Review	Prediction
 “This movie was a complete waste of time.”	❌ Negative
