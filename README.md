@@ -66,8 +66,14 @@ Copy
 Edit
 streamlit run app.py 
 
+---
+
+
+
+
 📷 Sample Predictions
 Review	Prediction
+
 “This movie was a complete waste of time.”	❌ Negative
 “An absolute masterpiece, totally loved it!”	✅ Positive
 “Not bad, but it could've been better.”	🤔 Neutral-leaning (but classified as Pos/Neg)
