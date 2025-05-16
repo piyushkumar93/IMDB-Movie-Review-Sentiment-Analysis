@@ -35,15 +35,14 @@ A real-time NLP application that analyzes the **sentiment of IMDB movie reviews*
 ## 📂 Project Structure
 
 IMDB-Movie-Review-Sentiment-Analysis/
+
 ├── app.py # Main Streamlit app
 ├── imdb_lstm_model.h5 # Trained LSTM model
 ├── tokenizer.pickle # Tokenizer used during training
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -51,7 +50,7 @@ Edit
 
 1. **Clone the repository**
 
-```bash
+bash
 git clone https://github.com/piyushkumar93/IMDB-Movie-Review-Sentiment-Analysis.git
 cd IMDB-Movie-Review-Sentiment-Analysis
 Install dependencies
@@ -65,7 +64,8 @@ Run the app
 bash
 Copy
 Edit
-streamlit run app.py ```
+streamlit run app.py 
+
 📷 Sample Predictions
 Review	Prediction
 “This movie was a complete waste of time.”	❌ Negative
